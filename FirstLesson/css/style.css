@@ -1,0 +1,133 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.first {
+    background-image: url("https://startbootstrap.github.io/startbootstrap-stylish-portfolio/img/bg-masthead.jpg");
+    background-size: cover;
+    background-position: center;
+    padding: 17rem 0;
+    text-align: center;
+}
+
+.first h1 {
+    color: #212529;
+    font-size: 88px;
+}
+.first h3 {
+    color: #212529;
+    font-size: 28px;
+}
+.first button {
+    color: #ffffff;
+    font-size: 16px;
+    background-color: #1d809f;
+    padding: 20px 40px;
+    margin-top: 30px;
+    border: none;
+    border-radius: 5px;
+}
+
+.second {
+    text-align: center;
+    padding: 10rem 0;
+}
+
+.second h2 {
+    color: #212529;
+    font-size: 32px;
+    padding: 8px 0;
+}
+.second p {
+    color: #212529;
+    font-size: 20px;
+    margin-top: 10px;
+}
+.second button {
+    color: #ffffff;
+    background-color: #343a34;
+    padding: 20px 40px;
+    border: none;
+    border-radius: 5px;
+    margin-top: 30px;
+}
+
+.third {
+    text-align: center;
+    background-color: #1d809f;
+    padding: 10rem 0 15rem;
+}
+.third .third-text p {
+    color: #ecb807;
+    font-size: 16px;
+}
+
+.third .third-text h2 {
+    color: #ffffff;
+    font-size: 48px;
+    margin-top: 30px;
+}
+.third .all {
+    margin-top: 40px;
+}
+
+.third .all .box {
+    float: left;
+    width: 25%;
+}
+.third .all h4 {
+    color: #ffffff;
+    font-size: 24px;
+}
+.third .all p {
+    color: #ffff;
+    font-size: 16px;
+    margin-top: 20px;
+}
+
+.fourty {
+    background-image: url("https://startbootstrap.github.io/startbootstrap-stylish-portfolio/img/bg-masthead.jpg");
+    padding: 15rem 0;
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+
+}
+.fourty h1 {
+    color: #212529;
+    font-size: 56px;
+}
+.fourty button {
+    color: #ffffff;
+    background-color: #1d809f;
+    padding: 20px 40px;
+    border: none;
+    border-radius: 5px;
+    margin-top: 30px;
+}
+
+.five {
+    text-align: center;
+    padding: 5rem 0;
+}
+
+.five p {
+    color: #ecb807;
+    font-size: 16px;
+}
+.five h2 {
+    color: #212529;
+    font-size: 48px;
+}
+
+.header .header-box{
+width: 50%;
+float: left;
+}
+
+.header img{
+    width: 100%;
+}
+
